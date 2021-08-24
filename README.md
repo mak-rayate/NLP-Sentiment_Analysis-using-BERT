@@ -18,3 +18,17 @@ BERT Large – 24 layers, 16 attention heads and, 340 million parameters.
 we have used BERT layer and developed a sentiment analysis model using TensorFlow 2.0. I have reached to model accurecy 77% on test dataset.model working excellent on raw text data. 
 
 Reason : In BERT, the model is made to learn from words in all positions, meaning the entire sentence.BERT incorporates the mighty Transformer in its architecture, which uses attention mechanism over the input sentence. Further, Google also used Transformers, which made the model even more accurate.
+
+#### NLP Data Preprocessing code for below operation available in .ipynb file
+1. Expand contraction
+2. Cleaning and removing punctuations
+3. Cleaning and removing URL’s
+4. cleaning_stopwords
+5. Cleaning and removing repeating characters
+6. Cleaning and removing Numeric numbers
+7. Applying Stemming
+8. Applying Lemmatizer
+
+#### Final Output:
+![image](https://user-images.githubusercontent.com/67750027/130550596-f4d59e97-c989-4283-bdf5-fdef028374d1.png)
+
