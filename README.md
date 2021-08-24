@@ -14,6 +14,7 @@ BERT Large – 24 layers, 16 attention heads and, 340 million parameters.
 ![image](https://user-images.githubusercontent.com/67750027/130549733-6e47ba8b-2d56-499d-aaf4-ed66471fc88a.png)
 
 
+#### Dataset : https://www.kaggle.com/kazanova/sentiment140
 #### PROJECT : detection of depression and mental illness in Twitter
 we have used BERT layer and developed a sentiment analysis model using TensorFlow 2.0. I have reached to model accurecy 77% on test dataset.model working excellent on raw text data. 
 
